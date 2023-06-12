@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Permaculture</title>
+    <link>/</link>
+    <description>Recent content on Permaculture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Welcome to my permaculture blog! I&amp;rsquo;m thrilled to share my knowledge and experiences in permaculture design with you.
+Who Am I? I&amp;rsquo;m a dedicated permaculture enthusiast residing in the beautiful South-West of England. Armed with a permaculture design certificate, I am deeply passionate about sustainable living, natural building techniques, and creating vibrant food forests.
+What is Permaculture? Permaculture is an innovative approach to designing and creating sustainable, regenerative systems that mimic nature&amp;rsquo;s patterns.</description>
+    </item>
+    
+    <item>
+      <title>The Complete Guide to Permaculture: Designing Sustainable Ecosystems</title>
+      <link>/posts/permaculture-designing-sustainable-ecosystems.2023-06-12t11-46-34.103z/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/permaculture-designing-sustainable-ecosystems.2023-06-12t11-46-34.103z/</guid>
+      <description>Permaculture is a holistic approach to designing sustainable ecosystems that are self-sufficient and require little maintenance. It is based on the principles of earth care, people care, and fair share. The goal of permaculture is to create a system where everything works together in harmony - from the smallest microorganisms in the soil to the largest trees in the forest.
+In today&amp;rsquo;s world, where climate change and environmental degradation are major concerns, permaculture offers an alternative way of living that is kinder to our planet.</description>
+    </item>
+    
+  </channel>
+</rss>
