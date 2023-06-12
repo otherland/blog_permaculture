@@ -2,7 +2,7 @@
 title: "The Complete Guide to Permaculture: Designing Sustainable Ecosystems"
 date: "2023-06-12"
 description: "Discover the principles, ethics, and techniques of permaculture design. Learn how to create sustainable ecosystems that promote earth care, people care, and fair share."
-categories: principles,beginners
+categories: ["principles","beginners"]
 draft: false
 ---
 Permaculture is a holistic approach to designing sustainable ecosystems that are self-sufficient and require little maintenance. It is based on the principles of earth care, people care, and fair share. The goal of permaculture is to create a system where everything works together in harmony - from the smallest microorganisms in the soil to the largest trees in the forest.
