@@ -1,0 +1,12 @@
+.header__container {
+	background-size: cover;
+	background-image: url('/header.jpg');
+	background-position: top -90px right 0px;
+}
+.logo__title {
+	color: white;
+}
+
+body {
+	background-color: antiquewhite;
+}

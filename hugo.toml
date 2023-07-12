@@ -1,21 +1,21 @@
-baseURL = ''
+baseURL = '/'
 languageCode = 'en-uk'
 title = 'Permaculture'
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
-[Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+
+[Author]
+  name = "Ezra Virgo"
+  bio = "Meet Ezra Virgo, a devoted permaculture enthusiast from the picturesque South-West of England. With a permaculture design certificate in hand, Ezra's unwavering commitment lies in the realm of sustainable living, embracing natural building techniques, and nurturing the growth of vibrant food forests. His deep passion for permaculture drives them to explore innovative ways of harmonizing human activities with the natural world. Located amidst the serene beauty of the South-West, Ezra continues to champion the principles of permaculture, aiming to create a thriving and sustainable future for all."
+  avatar = "avatar.png"
 
 [Params]
   description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-  copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+  copyright = "Permaculture" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
@@ -24,6 +24,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mainSections = ["posts", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  customCSS = ["css/custom.css"]
+  highlightColor = "#197040" # Override highlight color
 
 [Params.logo]
   image = "img/placeholder.png" # Logo image. Path relative to "static"

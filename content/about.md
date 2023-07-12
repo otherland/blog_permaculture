@@ -3,8 +3,7 @@ title: "About"
 date: "2023-06-12"
 description: "I'm a dedicated permaculture enthusiast residing in the beautiful South-West of England. Armed with a permaculture design certificate, I am deeply passionate about sustainable living, natural building techniques, and creating vibrant food forests."
 draft: false
-menu: "main"
-
+menu: ['main', 'footer']
 ---
 
 # About

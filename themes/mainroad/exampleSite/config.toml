@@ -7,8 +7,8 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Ezra Virgo"
+  bio = "Meet Ezra Virgo, a devoted permaculture enthusiast hailing from the picturesque South-West of England. With a permaculture design certificate in hand, Ezra's unwavering commitment lies in the realm of sustainable living, embracing natural building techniques, and nurturing the growth of vibrant food forests. Their deep passion for permaculture drives them to explore innovative ways of harmonizing human activities with the natural world. Located amidst the serene beauty of the South-West, Ezra continues to champion the principles of permaculture, aiming to create a thriving and sustainable future for all."
   avatar = "img/avatar.png"
 
 [Params]
